@@ -8,7 +8,5 @@ I like to code things from scratch, also read other's code and enjoy bringing id
 I value simple content structure, clean code patterns,object oriented procedures and thoughtful interactions.
 And I find recursive solutions beautiful. 
 
-Feel free to follow me on [Facebook](https://www.facebook.com/ElijahLanceCatli), [Instagram](https://www.instagram.com/xeuhellscythe/?hl=en), and [LinkedIn](https://www.linkedin.com/in/elijah-lance-catli-b08725172/)if you want to know more about my open source adventures! ✨
+Feel free to follow me on [Facebook](https://www.facebook.com/ElijahLanceCatli), [Instagram](https://www.instagram.com/xeuhellscythe/?hl=en), and [LinkedIn](https://www.linkedin.com/in/elijah-lance-catli-b08725172/) if you want to know more about my open source adventures! ✨
 You can also send me an email on elijahlancecatli@gmail.com
-
-Thank you ❤️

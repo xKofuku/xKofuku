@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Lance. Nice to meet you. Recently I took great interest in coding and just started learning web development through boot camps and other youtube tutorials.
+My name is Lance. Nice to meet you. Recently I took great interest in coding and just started learning web development through boot camps.
 I aspire to be a fullstack web developer. 
 I usually like to explore more tools and new skills to keep me versatile and efficient as a programmer.
 I have learned to appreciate readable, elegant code over my time as a baby developer.
